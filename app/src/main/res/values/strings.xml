@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MealPlanner</string>
+    <string name="meal_planner">Meal Planner</string>
+    <string-array name="tmp">
+        <item></item>
+
+    </string-array>
+
+</resources>
